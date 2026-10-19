@@ -4,7 +4,7 @@ Software Engineer with a focus on Computer Vision and Native Systems. RUET CSE g
 
 ---
 
-### 📌 About Me
+###  About Me
 * 🎓 BSc in Computer Science & Engineering from **RUET**.
 * 💼 Former Intern Engineer at **Samsung R&D Institute Bangladesh** (MDE Solution Group).
 * 🔬 Passionate about **Computer Vision** (spatiotemporal modeling, frame interpolation) and **Systems Engineering** (microarchitecture design, low-level desktop development).
@@ -12,7 +12,7 @@ Software Engineer with a focus on Computer Vision and Native Systems. RUET CSE g
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 * **Languages:** C++, Python, JavaScript, C, SQL
 * **Systems & Architecture:** C++/WinRT, WinUI 3, Digital Logic Simulator, Computer Architecture
 * **Computer Vision & ML:** PyTorch, OpenCV, Deep Learning Pipelines
@@ -21,13 +21,13 @@ Software Engineer with a focus on Computer Vision and Native Systems. RUET CSE g
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 * **[ResidencyHub](https://github.com/mahmudfaysal19/property)** — Full-stack real estate property management and booking platform built with React, Node.js, Express, Prisma, and MongoDB.
 * **[3-Bit CPU Microarchitecture](https://github.com/mahmudfaysal19/3bit-cpu)** — A modular 3-bit processor simulated from gate-level logic with an 18-bit fixed ISA, 5-register file, and 9×18 dual-port RAM.
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 * **LinkedIn:** [linkedin.com/in/faysal67](https://www.linkedin.com/in/faysal67/)
 * **Email:** [mdmahmudhasan7196@gmail.com](mailto:mdmahmudhasan7196@gmail.com)
 * **YouTube:** [Simulation Demo](https://www.youtube.com/watch?v=Z4pHt0uK5ME)
