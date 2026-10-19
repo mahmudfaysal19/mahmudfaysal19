@@ -28,7 +28,7 @@ Software Engineer with a focus on Computer Vision and Native Systems[cite: 1, 2]
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/your-username]([https://linkedin.com](https://www.linkedin.com/in/syedmahedi1/))
 * **YouTube:** [Simulation Demo](https://www.youtube.com/watch?v=Z4pHt0uK5ME)
 * **Email:** [your-email@domain.com](mailto:your-email@domain.com)
 
