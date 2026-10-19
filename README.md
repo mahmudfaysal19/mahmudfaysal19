@@ -1,6 +1,6 @@
 # Mahmud Faysal
 
-Software Engineer with a focus on Computer Vision and Native Systems. RUET CSE graduate and former Intern Engineer at Samsung R&D Institute Bangladesh[cite: 1, 3].
+Software Engineer with a focus on Computer Vision and Native Systems. RUET CSE graduate and former Intern Engineer at Samsung R&D Institute Bangladesh.
 
 ---
 
