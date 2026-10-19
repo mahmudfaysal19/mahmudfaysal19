@@ -23,7 +23,7 @@ Software Engineer with a focus on Computer Vision and Native Systems. RUET CSE g
 
 ###  Featured Projects
 * **[ResidencyHub](https://github.com/mahmudfaysal19/property)** — Full-stack real estate property management and booking platform built with React, Node.js, Express, Prisma, and MongoDB.
-* **[3-Bit CPU Microarchitecture]([https://github.com/mahmudfaysal19/3bit-cpu](https://github.com/mahmudfaysal19/Simulation-of-a-3-bit-CPU-in-Digital-Simulator))** — A modular 3-bit processor simulated from gate-level logic with an 18-bit fixed ISA, 5-register file, and 9×18 dual-port RAM.
+* **[3-Bit CPU Microarchitecture](https://github.com/mahmudfaysal19/Simulation-of-a-3-bit-CPU-in-Digital-Simulator)** — A modular 3-bit processor simulated from gate-level logic with an 18-bit fixed ISA, 5-register file, and 9×18 dual-port RAM.
 
 ---
 
