@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal67/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmahmudhasan7196@gmail.com)
-[![YouTube Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Z4pHt0uK5ME)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-001F3F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Z4pHt0uK5ME)
 
 </div>
 
