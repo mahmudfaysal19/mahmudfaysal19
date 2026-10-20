@@ -100,7 +100,7 @@ I'm a Computer Science graduate from **RUET** and a former Intern Engineer at **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal67/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmahmudhasan7196@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Z4pHt0uK5ME)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch_Demo-001F3F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Z4pHt0uK5ME)
 
 </div>
 
