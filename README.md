@@ -88,7 +88,7 @@ I'm a Computer Science graduate from **RUET** and a former Intern Engineer at **
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahmudfaysal19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=false&include_all_commits=true" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudfaysal19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="320"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudfaysal19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&v=1" width="320"/>
 
 </div>
 
