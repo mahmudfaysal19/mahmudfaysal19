@@ -29,7 +29,6 @@ I'm a Computer Science graduate from **RUET** and a former Intern Engineer at **
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![NoSQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Computer Vision & Systems**
 
